@@ -1,3 +1,7 @@
+Upgrade gradle and sdk.
+
+THanks for author.
+
 android-socket-client / java-socket-client
 =====================
 ## 一、说明
@@ -18,12 +22,6 @@ android-socket-client / java-socket-client
 ![image](https://github.com/zz7zz7zz/android-socket-client/blob/master/1.jpg "附图一")
 
 ![image](https://github.com/zz7zz7zz/android-socket-client/blob/master/2.jpg "附图二")
-
-
-
-
-
-
 
 
 
